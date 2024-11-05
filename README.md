@@ -1,5 +1,7 @@
 # Examen de Programación en C++
 
+https://github.com/gdopa06/DoPark_GangMin_ExamenCPP.git
+
 Estimado estudiante,
 
 Para asegurar una evaluación justa de tus habilidades en programación en C++, sigue estas instrucciones al entregar tus respuestas.
