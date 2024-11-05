@@ -30,9 +30,11 @@ Si utilizas referencias externas, inclúyelas en el README.md.
 ## Parte 2: Problemas de Codificación (70 puntos en total)
 
 ### Ejercicio 1: Identificación de Número Positivo, Negativo o Cero
-Escribe un programa en C++ que solicite al usuario ingresar un número entero. El programa deberá analizar el número ingresado e imprimir en pantalla si el número es "positivo", "negativo" o "cero". 
+#### Escribe un programa en C++ que solicite al usuario ingresar un número entero. El programa deberá analizar el número ingresado e imprimir en pantalla si el número es "positivo", "negativo" o "cero".
+
 Para este ejercicio, necesitamos que el usuario introduzca un número (que será nuestra variable) y con ella, saber si es positivo, negativo o si es cero.
-Con este planteamiento, tenemos tres posibilidades que serán nuestras condiciones,
+Con este planteamiento, tenemos tres posibilidades (menor que 0, mayor que 0 o si el número es 0) que serán nuestras condiciones y utilizaremos la herramienta _if_.
+
 
 ### Ejercicio 2: Día de la Semana
 Crea un programa en C++ que solicite al usuario ingresar un número del 1 al 7. El programa deberá imprimir el nombre del día de la semana correspondiente al número ingresado (por ejemplo, 1 para lunes, 2 para martes, ..., 7 para domingo). 
