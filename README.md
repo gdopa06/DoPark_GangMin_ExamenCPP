@@ -49,10 +49,41 @@ std::string Numero(int numero) {
 }
 ```
 
+En nuestro archivo main.cpp, llamamos nuestra funcion para que nos diga si el número es positivo, negativo o si es cero.
 
 ### Ejercicio 2: Día de la Semana
 #### Crea un programa en C++ que solicite al usuario ingresar un número del 1 al 7. El programa deberá imprimir el nombre del día de la semana correspondiente al número ingresado (por ejemplo, 1 para lunes, 2 para martes, ..., 7 para domingo). 
-Este ejercicio se encuentra en la Carpeta **Ejercicio2** del programa de este repositorio
+Este ejercicio se encuentra en la Carpeta **Ejercicio2** del programa de este repositorio.
+
+Para este ejercicio, también necesitamos que el usuario introduzca un número del 1 al 7 (que será nuestra variable) y con ella, saber a qué día de la semana corresponde ese número.
+Con este planteamiento, tenemos tres posibilidades (menor que 0, mayor que 0 o si el número es 0) que serán nuestras condiciones y utilizaremos la herramienta _switch_ ya que con las 7 posibilidades que tenemos (del 1 al 7), identificará el número con su respectivo día.
+Después de declarar nuestra función como _DiaSemana_ en el archivo "DiaSemana.h", esta sería nuestra función que se encuentra en el archivo "DiaSemana.cpp"
+```
+#include "DiaSemana.h"
+
+std::string DiaSemana(int numero) {
+    switch (numero) {
+        case 1:
+            return "Lunes";
+        case 2:
+            return "Martes";
+        case 3:
+            return "Miércoles";
+        case 4:
+            return "Jueves";
+        case 5:
+            return "Viernes";
+        case 6:
+            return "Sábado";
+        case 7:
+            return "Domingo";
+        default:
+            return "Número inválido. Por favor, ingresa un número del 1 al 7.";
+    }
+}
+
+```
+
 
 ### Ejercicio 3: Cálculo de Promedio de Calificaciones
 #### Un estudiante ha completado un curso de programación avanzada en C++. Durante el curso, ha realizado 8 ejercicios prácticos, y cada ejercicio se califica con una nota entre 0 y 10. Escribe un programa que solicite al usuario introducir las calificaciones obtenidas por el estudiante en cada uno de los 8 ejercicios. El programa deberá calcular y mostrar el promedio de las calificaciones.
