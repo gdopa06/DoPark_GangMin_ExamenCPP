@@ -1,0 +1,14 @@
+# ninja log v6
+1	405	1730800390409244791	CMakeFiles/DoPark_GangMin_ExamenCPP.dir/Ejercicio1/numero.cpp.o	8581eeeeca80d5d0
+0	521	1730800390408247080	CMakeFiles/DoPark_GangMin_ExamenCPP.dir/main.cpp.o	8a8fc2e22f7f67e9
+522	643	1730800390929843705	DoPark_GangMin_ExamenCPP	a782616e2d0088ec
+7	194	1730801548458246803	CMakeFiles/DoPark_GangMin_ExamenCPP.dir/Ejercicio3/PromedioCalificaciones.cpp.o	2ea7e91795ba8576
+7	195	1730801548458754596	CMakeFiles/DoPark_GangMin_ExamenCPP.dir/Ejercicio4/Promocion3x2.cpp.o	2ec64da8ccd6f0
+7	440	1730801548458132095	CMakeFiles/DoPark_GangMin_ExamenCPP.dir/Ejercicio2/DiaSemana.cpp.o	356c500858fa36f6
+5	573	1730801548456795841	CMakeFiles/DoPark_GangMin_ExamenCPP.dir/main.cpp.o	8a8fc2e22f7f67e9
+6	398	1730801585217842858	CMakeFiles/DoPark_GangMin_ExamenCPP.dir/Ejercicio1/numero.cpp.o	8581eeeeca80d5d0
+398	503	1730801585609077379	DoPark_GangMin_ExamenCPP	23d8fef5fc511ed2
+8	206	1730801802216464357	CMakeFiles/DoPark_GangMin_ExamenCPP.dir/Ejercicio3/PromedioCalificaciones.cpp.o	2ea7e91795ba8576
+8	206	1730801802216563024	CMakeFiles/DoPark_GangMin_ExamenCPP.dir/Ejercicio4/Promocion3x2.cpp.o	2ec64da8ccd6f0
+7	455	1730801802216359440	CMakeFiles/DoPark_GangMin_ExamenCPP.dir/Ejercicio2/DiaSemana.cpp.o	356c500858fa36f6
+5	356	1730801849431044339	CMakeFiles/DoPark_GangMin_ExamenCPP.dir/Ejercicio1/numero.cpp.o	8581eeeeca80d5d0
