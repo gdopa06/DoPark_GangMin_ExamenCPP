@@ -1,9 +1,34 @@
-# Parte 2: Problemas de Codificación (70 puntos en total)
+# Examen de Programación en C++
 
+Estimado estudiante,
+
+Para asegurar una evaluación justa de tus habilidades en programación en C++, sigue estas instrucciones al entregar tus respuestas.
+
+Instrucciones de Entrega
+Repositorio en GitHub:
+
+Crea un repositorio privado en GitHub para este examen y compártelo solo después de la revisión si así lo deseas.
+Fichero ZIP:
+
+Al finalizar, descarga tu repositorio como un archivo ZIP con el nombre Apellido_Nombre_ExamenCPP.zip.
+Archivo README.md:
+
+Incluye un archivo README.md en el repositorio, que contenga:
+Un enlace directo al repositorio.
+Una breve descripción de cada ejercicio resuelto y el archivo donde se encuentra.
+Usa Markdown para estructurar tu README.
+Entrega:
+
+Sube el archivo ZIP a la plataforma indicada antes de la fecha límite.
+Aspectos Adicionales:
+
+Organiza y comenta tu código para que sea fácil de leer y entender.
+Si utilizas referencias externas, inclúyelas en el README.md.
+Parte 2: Problemas de Codificación (70 puntos en total)
 Ejercicio 1: Identificación de Número Positivo, Negativo o Cero
 Escribe un programa en C++ que solicite al usuario ingresar un número entero. El programa deberá analizar el número ingresado e imprimir en pantalla si el número es "positivo", "negativo" o "cero". 
 
-Ejercicio 2: Día de la Semana
+# Ejercicio 2: Día de la Semana
 Crea un programa en C++ que solicite al usuario ingresar un número del 1 al 7. El programa deberá imprimir el nombre del día de la semana correspondiente al número ingresado (por ejemplo, 1 para lunes, 2 para martes, ..., 7 para domingo). 
 
 
