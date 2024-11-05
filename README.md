@@ -6,7 +6,7 @@ Estimado estudiante,
 
 Para asegurar una evaluación justa de tus habilidades en programación en C++, sigue estas instrucciones al entregar tus respuestas.
 
-Instrucciones de Entrega
+## Instrucciones de Entrega
 Repositorio en GitHub:
 
 Crea un repositorio privado en GitHub para este examen y compártelo solo después de la revisión si así lo deseas.
@@ -27,7 +27,7 @@ Aspectos Adicionales:
 Organiza y comenta tu código para que sea fácil de leer y entender.
 Si utilizas referencias externas, inclúyelas en el README.md.
 
-# Parte 2: Problemas de Codificación (70 puntos en total)
+## Parte 2: Problemas de Codificación (70 puntos en total)
 
 Ejercicio 1: Identificación de Número Positivo, Negativo o Cero
 Escribe un programa en C++ que solicite al usuario ingresar un número entero. El programa deberá analizar el número ingresado e imprimir en pantalla si el número es "positivo", "negativo" o "cero". 
